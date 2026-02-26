@@ -1,0 +1,10 @@
+Expanded    Adjacency           Queue               
+A           B D C               B D C               
+B           I G                 D C I G             
+D           C F                 C I G F             
+C           E F                 I G F E             
+I           G                   G F E               
+G                               F E                 
+
+Duong di tim duoc:
+A -> B -> G
